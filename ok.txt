@@ -1,7 +1,5 @@
 print
-aaaaaaaaaaa
-sssssssssssss
-ddddddddddddddfffff
+aaaaaaaaaa
 
 
 
